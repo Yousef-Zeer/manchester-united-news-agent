@@ -1,0 +1,31 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Python environments and generated files
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Model and tool caches
+.cache/
+cache/
+*.log
+
+# Local editor and Streamlit settings
+.vscode/
+.streamlit/secrets.toml

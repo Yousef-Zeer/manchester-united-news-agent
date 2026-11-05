@@ -1,0 +1,9 @@
+streamlit
+feedparser
+requests
+trafilatura
+google-genai
+sentence-transformers
+scikit-learn
+python-dateutil
+python-dotenv
