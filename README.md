@@ -4,7 +4,11 @@ A Streamlit app that gathers recent Manchester United news, groups reports about
 
 ## Preview
 
-[Watch the app demo](united-agent.mp4)
+
+
+https://github.com/user-attachments/assets/ccd99b0c-0f43-40cf-9811-9f73116c1d75
+
+
 
 ## How it works
 
@@ -75,6 +79,3 @@ python test_news.py
 - `tools/news_search.py` - RSS collection and article extraction
 - `requirements.txt` - Python dependencies
 - `.env.example` - environment variable template
-- `united-agent.mp4` - app demo
-
-The pipeline script is named `test_news.py` for historical reasons; `app.py` launches it.
